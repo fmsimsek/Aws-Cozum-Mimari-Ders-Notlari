@@ -13,7 +13,8 @@ Merhabalar, udemy ve genel olarak aws üzerinde öğrenmiş olduğum ders notlar
  - **Bölüm 7**: Proje
  - **Bölüm 8**: AWS Solution Architect Associate Sınavı
  - **Bölüm 9**: Ücretlendirme.
-#
+# Bölüm Alt Kuralları Yakında Eklenecek.....
+
 
 
  
